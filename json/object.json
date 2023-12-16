@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "heal potion",
+        "stock": 2,
+        "rarity": 5,
+        "price": 17
+
+    },
+    {
+        "id": 2,
+        "name": "strength potion",
+        "stock": 2,
+        "rarity": 2,
+        "price": 8
+    },
+    {
+        "id": 3,
+        "name": "xp potion",
+        "stock": 5,
+        "rarity": 1,
+        "price": 6
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Paper Sword",
+        "stock": 2,
+        "rarity": 3,
+        "price": 12
+    }
+    ,
+    {
+        "id": 5,
+        "name": "Super Swoooord",
+        "stock": 1,
+        "rarity": 3,
+        "price": 25
+    }
+    ,
+    {
+        "id": 6,
+        "name": "Paper Shield",
+        "stock": 2,
+        "rarity": 3,
+        "price": 9
+    }
+    ,
+    {
+        "id": 7,
+        "name": "Nice Shield",
+        "stock": 1,
+        "rarity": 3,
+        "price": 25
+    }
+]
